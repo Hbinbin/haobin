@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          我的首页
+          haobin的首页
         </header>
       </div>
     );
